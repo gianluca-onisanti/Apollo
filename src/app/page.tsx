@@ -6,22 +6,20 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
+          Eai bixão doido
         </p>
         <div>
           <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            href="https://www.youtube.com/watch?v=0LwcvjNJTuM"
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{" "}
+            Eu sou um link
             <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
+              src="/doge.jpg"
+              alt="Doge"
               width={100}
-              height={24}
+              height={100}
               priority
             />
           </a>
@@ -31,62 +29,62 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
+          src="/xablau.png"
+          alt="O aplicativo teste"
+          width={200}
+          height={150}
           priority
         />
       </div>
 
       <div className={styles.grid}>
         <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://github.com/gianluca-onisanti"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            GitHub Gian <span>-&gt;</span>
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>Ache, ache informações do criador dessa m....</p>
         </a>
 
         <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://github.com/prisma/prisma/issues/5184"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Learn <span>-&gt;</span>
+            Busque <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
+          <p>Busque conhecimento imediatamente!</p>
         </a>
 
         <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://www.bcb.gov.br/estabilidadefinanceira/historicocotacoes"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Templates <span>-&gt;</span>
+            Quanto <span>-&gt;</span>
           </h2>
-          <p>Explore starter templates for Next.js.</p>
+          <p>Quantos lulas tá 1 trump.</p>
         </a>
 
         <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://r.agar.io"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Deploy <span>-&gt;</span>
+            Saia <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Saia daqui e vá jogar Agar.io ....
           </p>
         </a>
       </div>
