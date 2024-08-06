@@ -47,7 +47,7 @@ export default function Home() {
           <h2>
             GitHub Gian <span>-&gt;</span>
           </h2>
-          <p>Ache, ache informações do criador dessa m....</p>
+          <p>Ache, ache informações do creqrlojhoi´thjemogtrenmiador dessa m....</p>
         </a>
 
         <a
